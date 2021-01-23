@@ -1,5 +1,5 @@
 # msp430-sht3x-sensors
-Library to manage the SHT30 sensor. It is a temperature and humidity sensor and communicates through I2C. These measures are shown on an LCD. 
+Library to handle the SHT30 sensor. It is a temperature and humidity sensor and communicates through I2C. These measures are shown on an LCD. 
 This was tested on the launchpad of MSP430FR4133 but it can be easily adapted to any MCU. Developed in the IDE Code Composer Studio. 
 
 ### Developed in:
